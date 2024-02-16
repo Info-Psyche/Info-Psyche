@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Info-Psyche
-- 🌱 I’m currently a beginner and learning HTML and Python
+- 🌱 I’m currently a beginner and learning HTML and CSS
 
 
 <!---
